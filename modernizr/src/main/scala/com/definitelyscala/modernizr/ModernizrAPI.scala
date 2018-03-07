@@ -1,4 +1,4 @@
-package com.definitelyscala.modernizr
+package modernizr
 
 import scala.scalajs.js
 import org.scalajs.dom.raw._

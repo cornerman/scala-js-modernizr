@@ -1,3 +1,12 @@
+# Fork
+
+Using scala-js-bundler and npm depdency for modernizr.
+
+Get via jitpack:
+```
+libraryDependencies += "com.github.cornerman.scala-js-modernizr" %%% "scala-js-modernizr" % "master-SNAPSHOT"
+```
+
 scala-js-modernizr
 ===============
 
